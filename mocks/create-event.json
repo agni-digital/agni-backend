@@ -1,0 +1,8 @@
+{
+  "body": "{\"phoneNumber\":\"12345123123\",\"name\":\"4645646123123\",\"civicbody\":\"somethingyes\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
